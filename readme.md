@@ -1,6 +1,6 @@
 # Details
 
-## #This is awesome.
+## This is awesome.
 
 Hii this is dorababu and this is my personoanal portifolio.
 
